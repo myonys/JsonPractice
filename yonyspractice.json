@@ -1,0 +1,31 @@
+[
+{
+	"questionId": 1,
+	"title": "Free Text Question",
+	"value": "",
+	"type": "freetext"
+},
+{
+	"questionId": 2,
+	"title": "Radio Button Question",
+	"value":{
+	"first": "Green",
+	"second": "Yellow",
+	"third": "Blue",
+	"fourth": "Orange"
+	},
+	"type": "radiobutton"
+},
+{
+	"questionId": 3,
+	"title": "SeekBar Question",
+	"value": 10,
+	"type": "seekbar"
+},
+{
+	"questionId": 4,
+	"title": "Spinner Question",
+	"value": [One, Two, Three, Four, Five],
+	"type": "spinner"
+},
+]
