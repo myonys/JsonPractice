@@ -25,7 +25,7 @@
 {
 	"questionId": 4,
 	"title": "Spinner Question",
-	"value": [One, Two, Three, Four, Five],
+	"value": ["One", "Two", "Three", "Four", "Five"],
 	"type": "spinner"
 },
 ]
