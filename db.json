@@ -1,14 +1,14 @@
 [
-{
+	{
 	"questionId": 1,
 	"title": "Free Text Question",
-	"value": "",
+	"value": " ",
 	"type": "freetext"
 },
 {
 	"questionId": 2,
 	"title": "Radio Button Question",
-	"value":{
+	"value": {
 	"first": "Green",
 	"second": "Yellow",
 	"third": "Blue",
@@ -25,7 +25,8 @@
 {
 	"questionId": 4,
 	"title": "Spinner Question",
-	"value": ["One", "Two", "Three", "Four", "Five"],
+	"value": 8,
 	"type": "spinner"
 },
+
 ]
